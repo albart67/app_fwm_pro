@@ -1,7 +1,7 @@
 [project]
 name = "app-fwm-pro"
 version = "0.1.0"
-description = "Add your description here"
+description = "Outil Streamlit de dimensionnement d'un ballon tampon primaire couplé à des stations ECS FWM PRO"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
